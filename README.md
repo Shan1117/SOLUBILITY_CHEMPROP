@@ -7,5 +7,4 @@ It is based on the workflow provided by HASTEN, which helps in boosting virtual 
 DESCRIPTION:
 It will select 10K compounds randomly from the entire dataset 
 
-DATASET: AqSolDB
-DOI: https://doi.org/10.7910/DVN/OVHAW8
+DATASET:
