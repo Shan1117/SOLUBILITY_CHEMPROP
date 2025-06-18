@@ -11,4 +11,4 @@ DATASET: collection of 7 cured datasets (AqSOL, AQUA, ESOL, CHEMBL, KINECT, OCHE
 
 
 REFERNCES: 
-/item Meng, J., Chen, P., Wahib, M. et al. Boosting the predictive performance with aqueous solubility dataset curation. Sci Data 9, 71 (2022). https://doi.org/10.1038/s41597-022-01154-3
+ Meng, J., Chen, P., Wahib, M. et al. Boosting the predictive performance with aqueous solubility dataset curation. Sci Data 9, 71 (2022). https://doi.org/10.1038/s41597-022-01154-3
